@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">وقـفت بيا!</string>
+    <string name="service_pro_only">خـاص بشركائنا مزودي الخدمة</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="service_pro">مــزودي الخدمــة</string>
+    <string name="new_account">تسجيـل جديـد.</string>
+    <string name="name">اسمــك</string>
+    <string name="phone">رقم الهاتف</string>
+    <string name="password_cnf">إعادة كلمة المرور</string>
+    <string name="error_passwordCnf">"تأكد من ان كلمة المرور متطابقة."</string>
+    <string name="error_phoneNum">"يجب التأكد من كتابة رقم الهاتف."</string>
+    <string name="error_signIn">"تأكد من المرور، او انقر على تسجيل جديد للتسجيل."</string>
+
+
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_service_pro_maps">Map</string>
+</resources>
